@@ -1,0 +1,1 @@
+A Corrective Retrieval-Augmented Generation (CRAG) pipeline built with LangGraph and Groq, featuring document relevance grading, sentence-level knowledge refinement, and fallback web search for improved answer reliability.
